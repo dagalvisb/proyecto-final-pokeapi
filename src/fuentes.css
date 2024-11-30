@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ketchum';
+    src: url('../public/ketchum/Ketchum.otf') format('truetype');
+  }
+
+@font-face {
+    font-family: 'pokemon';
+    src: url('../public/pokemon/Pokemon\ Solid.ttf') format('truetype');
+}
+
+.pokemon-font {
+    font-family: 'pokemon', sans-serif;
+}
+
+.ketchum-font {
+    font-family: 'ketchum', sans-serif;
+}
